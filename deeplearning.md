@@ -1,7 +1,6 @@
 ## convolutional neural networks
 - https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53
 - https://www.youtube.com/watch?v=B-M5q51U8SM
-- {% include youtube.html id="watch?v=B-M5q51U8SM" %}
 ```
 CNN finds optimal filters
 convoled image ≒ filtered image
