@@ -35,3 +35,20 @@ find edge of images of diffrent multiple orientations
 averaging surrounding values : most popular  
 max pooling : based on attention mechanism (typically no overlapped, stride = filtersize)
 ```
+
+
+## vgg16
+```
+exsiting cnn architecture
+```
+<img src="https://user-images.githubusercontent.com/70645899/225662434-9f43411c-5bc2-464a-9945-bfe31e011705.png" width="500">
+
+
+
+## GPU setup
+- https://rsandstroem.github.io/gpuDeepLearningWindows.html
+
+## Data augmentation
+```python
+ImageDataGenerator
+```
