@@ -1,1 +1,2 @@
 - https://github.com/satellite-image-deep-learning/techniques
+- https://github.com/chrieke/awesome-satellite-imagery-datasets
