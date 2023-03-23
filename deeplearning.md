@@ -52,3 +52,7 @@ exsiting cnn architecture
 ```python
 ImageDataGenerator
 ```
+
+## Imagenet
+- https://www.image-net.org/index.php
+- https://image-net.org/static_files/files/pascal_ilsvrc.pdf
