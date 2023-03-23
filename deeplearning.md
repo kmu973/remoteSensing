@@ -37,7 +37,10 @@ max pooling : based on attention mechanism (typically no overlapped, stride = fi
 ```
 
 
-## vgg16
+## imagenet - vgg16
+- https://www.image-net.org/index.php
+- https://image-net.org/static_files/files/pascal_ilsvrc.pdf
+- https://machinelearningmastery.com/use-pre-trained-vgg-model-classify-objects-photographs/
 ```
 exsiting cnn architecture
 ```
@@ -53,6 +56,3 @@ exsiting cnn architecture
 ImageDataGenerator
 ```
 
-## Imagenet
-- https://www.image-net.org/index.php
-- https://image-net.org/static_files/files/pascal_ilsvrc.pdf
