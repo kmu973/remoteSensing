@@ -56,3 +56,8 @@ exsiting cnn architecture
 ImageDataGenerator
 ```
 
+## Semantic segmentaion UNET
+
+- Image categorization : down sampling, Semantic segmentation : Up sampling
+- https://towardsdatascience.com/understanding-semantic-segmentation-with-unet-6be4f42d4b47
+- https://www.youtube.com/watch?v=azM57JuQpQI
