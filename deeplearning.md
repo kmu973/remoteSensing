@@ -63,3 +63,5 @@ ImageDataGenerator
 
 - https://towardsdatascience.com/understanding-semantic-segmentation-with-unet-6be4f42d4b47
 - https://www.youtube.com/watch?v=azM57JuQpQI
+- https://towardsdatascience.com/unet-line-by-line-explanation-9b191c76baf5
+
