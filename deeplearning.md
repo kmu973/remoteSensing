@@ -59,5 +59,7 @@ ImageDataGenerator
 ## Semantic segmentaion UNET
 
 - Image categorization : down sampling, Semantic segmentation : Up sampling
+<img src="https://user-images.githubusercontent.com/70645899/228857650-7882af3f-030a-4646-b11d-e3263413bd7c.png" width="600">
+
 - https://towardsdatascience.com/understanding-semantic-segmentation-with-unet-6be4f42d4b47
 - https://www.youtube.com/watch?v=azM57JuQpQI
