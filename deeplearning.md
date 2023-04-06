@@ -56,7 +56,7 @@ exsiting cnn architecture
 ImageDataGenerator
 ```
 
-## Semantic segmentaion UNET
+## Semantic Segmentaion UNET
 
 - Image categorization : down sampling, Semantic segmentation : Up sampling
 <img src="https://user-images.githubusercontent.com/70645899/228857650-7882af3f-030a-4646-b11d-e3263413bd7c.png" width="600">
@@ -69,6 +69,15 @@ ImageDataGenerator
 
 - https://blog.keras.io/building-autoencoders-in-keras.html
 
-## Autoencoder
+## Transfer Learning
 
+Why we're doing this?
+- Lack of dataset
+- Less common
 
+- https://neptune.ai/blog/transfer-learning-guide-examples-for-images-and-text-in-keras
+<img src="https://user-images.githubusercontent.com/70645899/230416030-28daf8ec-be16-4a34-bade-55e383fda6d0.png" width="600">
+<img src="https://user-images.githubusercontent.com/70645899/230416658-5c3b89a6-4817-4adb-8e4b-734e18c13f94.png" width="600">
+<img src="https://user-images.githubusercontent.com/70645899/230417721-b2f2987a-c31c-4a22-840f-cb0804dc310a.png" width="600">
+
+- freeze initial conv blocks, dont freeze later blocks.
