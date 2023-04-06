@@ -65,3 +65,10 @@ ImageDataGenerator
 - https://www.youtube.com/watch?v=azM57JuQpQI
 - https://towardsdatascience.com/unet-line-by-line-explanation-9b191c76baf5
 
+## Autoencoder
+
+- https://blog.keras.io/building-autoencoders-in-keras.html
+
+## Autoencoder
+
+
